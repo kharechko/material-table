@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": 4,
+      "name": "Petya",
+      "surname": "Zhuk",
+      "phone": "0631132434"
+    },
+    {
+      "id": 5,
+      "name": "Vlad",
+      "surname": "Pshyvara",
+      "phone": "0686745390"
+    },
+    {
+      "id": 6,
+      "name": "Petro",
+      "surname": "Petriv",
+      "phone": "0971143448"
+    },
+    {
+      "id": 7,
+      "name": "Svitlana",
+      "surname": "Maksymiv",
+      "phone": "0935678576"
+    },
+    {
+      "id": 8,
+      "name": "Yevhen",
+      "surname": "Voloshyn",
+      "phone": "0974567123"
+    }
+  ]
+}
